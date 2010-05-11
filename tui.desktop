@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=tui
+Version=1.0
+Comment=A Urls shortener for Twitter
+Comment[es]=Un acortador de direcciones web para Twiter
+GenericName=tui
+Terminal=false
+Icon=tui.png
+Type=Application
+Exec=python /usr/share/tui/tui.py
+Categories=GNOME;GTK;Application;Network;
